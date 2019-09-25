@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/caarlos0/env"
-	"github.com/cyberlight/bbcrawler"
+	"github.com/urstkj/bbcrawler"
 	"github.com/gin-gonic/gin"
 	"gopkg.in/telegram-bot-api.v4"
 )
