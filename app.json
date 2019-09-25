@@ -8,7 +8,7 @@
     "bug bounty program"
   ],
   "image": "heroku/go:1.6",
-  "mount_dir": "src/github.com/cyberlight/telegram_bbbot",
-  "website": "https://github.com/cyberlight/telegram_bbbot",
-  "repository": "https://github.com/cyberlight/telegram_bbbot"
+  "mount_dir": "src/github.com/urstkj/telegram_bbbot",
+  "website": "https://github.com/urstkj/telegram_bbbot",
+  "repository": "https://github.com/urstkj/telegram_bbbot"
 }
